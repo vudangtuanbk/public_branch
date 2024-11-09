@@ -1,13 +1,15 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 
+#EXTINF:-1 tvg-id="vtv3hd" group-title="1. GIẢI TRÍ" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg", VTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="1. GIẢI TRÍ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3 HD | Trễ thấp
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 http://p1.cvtv.xyz/vtv3?token=live
 #EXTINF:-1 tvg-id="htv7hd" group-title="1. GIẢI TRÍ" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 HD (TV360)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://thvip.site/htv7/index.m3u8
-#EXTINF:0 tvg-id="AXN" group-title="1. GIẢI TRÍ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaQpHIUtT-gc4IOao3FlqkFy3H-gr9xdp6XRcppZ5wpQ&s",AXN HD 🇻🇳
-#EXTVLCOPT:http-user-agent="khichTiVi 
+#EXTINF:-1 tvg-id="AXN" group-title="1. GIẢI TRÍ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaQpHIUtT-gc4IOao3FlqkFy3H-gr9xdp6XRcppZ5wpQ&s",AXN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tth.vn/Khichtv-live-axn-hd-okhich.m3u8
 
@@ -17,7 +19,6 @@ https://tth.vn/Khichtv-live-axn-hd-okhich.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 13_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/125.0.0.0 Mobile/15E148 Safari/604.1
 http://125hvt.ddns.net:21585/hbo/index.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="2. PHIM TRUYỆN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/16cwuz5j_hbo_ngang_296_168.png",HBO_S2
-#EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ANTmekhichtv/17-03-24
 http://125hvt.ddns.net:21585/hbo/index.m3u8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="2. PHIM TRUYỆN" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png",SCTV9 HD
@@ -27,7 +28,7 @@ https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tth.vn/cinemax720p
 #EXTINF:-1 tvg-id="kcine" group-title="2. PHIM TRUYỆN" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png",K+CINE HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tth.vn/Khichtv-live-k-cine-hd-m3u8
 
 
@@ -230,9 +231,7 @@ https://32mine.net/hls/angiang2.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg", VTV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/Opv4PmUyi8g/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist_b4200000.m3u8
