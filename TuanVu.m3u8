@@ -24,13 +24,26 @@ https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=180
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="1. GIẢI TRÍ" tvg-logo="https://i.ytimg.com/vi/4SqDlPT8oEI/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=177
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="1. GIẢI TRÍ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrtOJ-ynV-fR2_rG95EQbDiZh20-UOIngS7pmunrxX2w&s" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
+#EXTVLCOPT:http-user-agent=KhichTivi
+#EXTVLCOPT:http-user-https://mir-s3-cdn-cf.behance.net/projects/404/5539c052982045.Y3JvcCwyNDU4LDE5MjQsNzA0LDg0.pngagent=Dalvik/2.1.0
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.223/test/123/playlist.mpegts
 
 
 
-#EXTINF:-1 tvg-id="hbohd" group-title="2. PHIM TRUYỆN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/16cwuz5j_hbo_ngang_296_168.png",HBO
+#EXTINF:-1 tvg-id="hbosd" group-title="2. PHIM TRUYỆN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/16cwuz5j_hbo_ngang_296_168.png",HBO SD
 #EXTVLCOPT:http-user-agent=ANTmekhichtv/17-03-24
 http://125hvt.ddns.net:21585/hbo/index.m3u8
-#EXTINF:-1 tvg-id="kcine" group-title="2. PHIM TRUYỆN" tvg-logo="https://thumb.canalplus.pro/http/unsafe/0x0/smart/filters:quality(100)/warehouse.canal-overseas.com/channel/0001/42/6fe88f080f13e53ac86d481b6488472fb2546d9a.png",K+CINE HD
+#EXTINF:-1 tvg-id="hbohd" group-title="2. PHIM TRUYỆN" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/16cwuz5j_hbo_ngang_296_168.png",HBO HD
+#EXTVLCOPT:http-user-agent=ANTmekhichtv/17-03-24
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.112/test/123/playlist.mpegts
+#EXTINF:-1 tvg-id="kaction" group-title="2. PHIM TRUYỆN" tvg-logo="https://thumb.canalplus.pro/http/unsafe/0x0/smart/filters:quality(100)/warehouse.canal-overseas.com/channel/0001/42/af8c22b708f0c3e467fd9ba59a70a71703b48caf.png",K+ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://113.160.152.31:5050/udp/232.84.1.97:8556
+#EXTINF:-1 tvg-id="kcines1" group-title="2. PHIM TRUYỆN" tvg-logo="https://thumb.canalplus.pro/http/unsafe/0x0/smart/filters:quality(100)/warehouse.canal-overseas.com/channel/0001/42/6fe88f080f13e53ac86d481b6488472fb2546d9a.png",K+CINE S1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://113.160.152.31:5050/udp/232.84.1.96:8550
+#EXTINF:-1 tvg-id="kcines2" group-title="2. PHIM TRUYỆN" tvg-logo="https://thumb.canalplus.pro/http/unsafe/0x0/smart/filters:quality(100)/warehouse.canal-overseas.com/channel/0001/42/6fe88f080f13e53ac86d481b6488472fb2546d9a.png",K+CINE S2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tth.vn/Khichtv-live-k-cine-hd-m3u8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="2. PHIM TRUYỆN" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png",SCTV9 HD
@@ -57,6 +70,12 @@ http://113.162.2.210:8989/rtp/232.84.3.242:11374
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="3. THỂ THAO" tvg-logo="https://mytv.com.vn/upload/channel/15.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://thvip.site/htvtt/index.m3u8
+#EXTINF:-1 tvg-id="ksport1" group-title="3. THỂ THAO" tvg-logo="https://thumb.canalplus.pro/http/unsafe/0x0/smart/filters:quality(100)/warehouse.canal-overseas.com/channel/0001/42/bba30f2ecc4f18e96a7061c987c12c3470f87412.png",K+ SPORT1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://113.160.152.31:5050/udp/232.84.1.125:10326
+#EXTINF:-1 tvg-id="ksport2" group-title="3. THỂ THAO" tvg-logo="https://mytv.com.vn/upload/channel/15.png",K+ SPORT2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://113.160.152.31:5050/udp/232.84.1.131:10368
 
 
 
@@ -91,6 +110,9 @@ http://thvip.site/vtc1/index.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="5. THIẾU NHI" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png", K+KIDS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://113.162.2.210:8989/rtp/232.84.3.42:11800
+#EXTINF:-1 tvg-id="kkidshd" group-title="5. THIẾU NHI" tvg-logo="https://img-zlr1.tv360.vn/image1/2022/10/22/18/1666437081424/cbd3f3af84ba_640_360.png", K+KIDS SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://113.160.152.31:5050/udp/232.84.3.43:11794
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="5. THIẾU NHI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/ONBIBI.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab8-bibi/${start}/${offset}", On BiBi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=178
