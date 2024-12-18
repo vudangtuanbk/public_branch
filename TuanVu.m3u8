@@ -18,7 +18,13 @@ http://125hvt.ddns.net:21585/hbo/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="kcines2" group-title="2. K+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/0x0/smart/filters:quality(100)/warehouse.canal-overseas.com/channel/0001/42/6fe88f080f13e53ac86d481b6488472fb2546d9a.png",K+CINE S1
+#EXTINF:-1 tvg-id="kcinehd" group-title="2. K+" group-logo="https://xzenprox.github.io/cdn/main.png" tvg-logo="http://xzenprox.github.io/cdn/images/vstv/kplus_cine.png",K+CINE (SCTV)
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/KPlusCine/index.m3u8
+#EXTINF:-1 tvg-id="kaction" group-title="2. K+" group-logo="https://xzenprox.github.io/cdn/main.png" tvg-logo="http://xzenprox.github.io/cdn/images/vstv/kplus_action.png",K+ACTION (SCTV)
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/KPlusAction/index.m3u8
+#EXTINF:-1 tvg-id="kcines2" group-title="2. K+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/0x0/smart/filters:quality(100)/warehouse.canal-overseas.com/channel/0001/42/6fe88f080f13e53ac86d481b6488472fb2546d9a.png",K+CINE (CTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tth.vn/Khichtv-live-k-cine-hd-m3u8
 #EXTINF:-1 group-title="2. K+" tvg-logo="https://i.imgur.com/QPkuBRi.png" tvg-id="d4d5a5b6d3a89cd2d3f6445830e40aa4",K+ Action (DRM)
@@ -67,9 +73,9 @@ https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn
 #EXTINF:-1 tvg-id="sctv14hd" group-title="3. SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/76.png", SCTV14 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="sctv15hd" group-title="3. SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/SCTV15.jpg", SCTV15 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live2cloud.sgchill.io.vn/hls/v2/uid:vmttv/ip:122:46:728:99/play/sctv/sctv15.smil/index.m3u8
+#EXTINF:-1 tvg-id="sctv15hd" group-title="3. SCTV" group-logo="https://xzenprox.github.io/cdn/main.png" tvg-logo="http://xzenprox.github.io/cdn/images/sctv/sctv15.png",SCTV15 - Ssport2
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e9.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8
 #EXTINF:-1 tvg-id="sctv16hd" group-title="3. SCTV" tvg-logo="http://qcatv.vn/upload/qcatv/product/image-large-39mtr42m91.jpg", SCTV16 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv16/index.m3u8
@@ -88,7 +94,9 @@ https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn
 #EXTINF:-1 tvg-id="sctv21hd" group-title="3. SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/83.png", SCTV21 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s13.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s13.edge.cdn.sctvonline.vn/hls/sctv21/index.m3u8
-
+#EXTINF:-1 tvg-id="sctv22hd" group-title="3. SCTV" group-logo="https://xzenprox.github.io/cdn/main.png" tvg-logo="http://xzenprox.github.io/cdn/images/sctv/sctv22.png",SCTV22 - Ssport1
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
+http://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8
 
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD ASIA
