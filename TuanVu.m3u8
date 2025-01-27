@@ -1,79 +1,14 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="AXN" group-title="1. QUỐC TẾ" tvg-logo="https://mytv.com.vn/upload/channel/177.png",AXN HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/Khichtv-live-axn-hd-okhich.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/STCTI1F.png" tvg-id="2477120f8dc48d2c923d5cbd917fe928",DISCOVERY ASIA
-http://pcriptv.ddns.net:9981/stream/channelid/252868388?ticket=B3DADC246E21585AA7CDF9AF29CEADCB902D2DCA&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/qUiM77S.png" tvg-id="e0f64813198d73ec818eaf8dba322534",BBC Earth
-http://pcriptv.ddns.net:9981/stream/channelid/323548896?ticket=4989CE2F9CD71D7D262AE91403EBAB3D101BDE40&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/7nIUtCU.png" tvg-id="f4ac54b663f41522227e9d6ade6a0068",HBO HD
-http://pcriptv.ddns.net:9981/stream/channelid/911518964?ticket=C43DE3BE72275D66F72C57D74B05B8B2CF0E1FE5&profile=pass
+
 #EXTINF:-1 tvg-id="hbosd" group-title="1. QUỐC TẾ" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/16cwuz5j_hbo_ngang_296_168.png",HBO SD
 #EXTVLCOPT:http-user-agent=ANTmekhichtv/17-03-24
 http://125hvt.ddns.net:21585/hbo/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="kcines2" group-title="2. K+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/0x0/smart/filters:quality(100)/warehouse.canal-overseas.com/channel/0001/42/6fe88f080f13e53ac86d481b6488472fb2546d9a.png",K+CINE (CTV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/Khichtv-live-k-cine-hd-m3u8
-#EXTINF:-1 logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kns_172771621265.jpg" tvg-id="2c4df3156453916acb02a1b03d06dea0",K+ Action (25)
-http://pcriptv.ddns.net:9981/stream/channelid/368266540?ticket=A93BD0329F615F509779F5C4418FFD4D5A8DAC20&profile=pass
-#EXTINF:-1 logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k1_172771644656.jpg" tvg-id="2a0e3c378be9c413b49ca8be738a576b",K+ Cine (25)
-http://pcriptv.ddns.net:9981/stream/channelid/926682666?ticket=22383C4963984EBE962E5C3700C475490EA572AA&profile=pass
-#EXTINF:-1 logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k-kids-hd_172771651866.jpg" tvg-id="08b452a3a28b81cdda76ca4e8714745d",K+ Kids (25)
-http://pcriptv.ddns.net:9981/stream/channelid/592622600?ticket=BEF9C81AFB20A8BA7540D1CC1B59A4CF68E85A6C&profile=pass
-#EXTINF:-1 logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kpm_172771660734.jpg" tvg-id="f0c2ceecf8303c78b90aa32968a148e6",K+ Sports 1 (25)
-http://pcriptv.ddns.net:9981/stream/channelid/1825489648?ticket=11DA42473545E6C783B15C78D8BF83DB4450D7C2&profile=pass
-#EXTINF:-1 logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_kpc_172771667492.jpg" tvg-id="3da50a3299c0781887ecd2e6aff5c6d6",K+ Sports 2 (25)
-http://pcriptv.ddns.net:9981/stream/channelid/839558461?ticket=097E2212C9F0C24CAC9B5315183000AB8587D8BE&profile=pass
-#EXTINF:-1 group-title="2. K+" tvg-logo="https://i.imgur.com/QPkuBRi.png" tvg-id="d4d5a5b6d3a89cd2d3f6445830e40aa4",K+ Action 1080p
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1984950986?profile=pass
-#EXTINF:-1 group-title="2. K+" tvg-logo="https://i.imgur.com/As4bwUs.png" tvg-id="04fd02f439b469dd11f1b744883e6b48",K+ Cine 1080p
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/651475300?profile=pass
-#EXTINF:-1 group-title="2. K+" tvg-logo="https://i.imgur.com/6yiAtRg.png" tvg-id="f5d731a1f5db0600260aa6fb06858d73",K+ Sport 1 1080p
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/110317627?profile=pass
-#EXTINF:-1 group-title="2. K+" tvg-logo="https://i.imgur.com/EFeyqYX.png" tvg-id="d128442039a8b881a5daa31e43a12181",K+ Sport 2 1080p
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1882525202?profile=pass
-
-
-
-#EXTINF:-1 logo="https://i.imgur.com/moYwxwf.png" tvg-id="6ee4b9b7e994a112998b408bba588e17",ON SPORTS
-http://pcriptv.ddns.net:9981/stream/channelid/934929518?ticket=70A23F2E624460379E76A8A2233E0533F9245292&profile=pass
-#EXTINF:-1 logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650260303/bc7fe5334315_480_270.png" tvg-id="038eb6010e3c22cccc79b23931c42570",On Football
-http://pcriptv.ddns.net:9981/stream/channelid/28741123?ticket=22ADD6E9D7794795760148245AB27D96DE286A1D&profile=pass
-#EXTINF:-1 logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_480_270.png" tvg-id="c22762b935aedac1bc511b6c8253b61a",On Sports +
-http://pcriptv.ddns.net:9981/stream/channelid/962734018?ticket=7C0AD44FEA93A4081AAB2FDCD51A9B7DD820793B&profile=pass
-#EXTINF:-1 logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650363143/71956aa35c78_480_270.png" tvg-id="012877b3dc5ba08f83fcc8de47ac4ecb",On Sports New
-http://pcriptv.ddns.net:9981/stream/channelid/863447041?ticket=2296067896AE52F2AA9C580A13B8B443DD4DE101&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/BGF2I58.png" tvg-id="14abb6cbcef06f7fe310b0e221c4c3d9",ON GOLF
-http://pcriptv.ddns.net:9981/stream/channelid/1270262548?ticket=2462A0972D8D2867B053AC9821B460B42BFBB344&profile=pass
-
-
-
-#EXTINF:-1 logo="https://i.imgur.com/nfkmvAY.png" tvg-id="5e555f67a4af0fc7b1988396412cf529",VTV1
-http://pcriptv.ddns.net:9981/stream/channelid/1734301022?ticket=9F6E2614C4F28DE2A5791E672C0945A42FB188D9&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/BVwi3K3.png" tvg-id="03e03cb01da39791207c7b3ccf0dbfd5",VTV2
-http://pcriptv.ddns.net:9981/stream/channelid/809295875?ticket=06FFE6202C98D89A00545896340F2118150DA1D6&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/7rLCvgS.png" tvg-id="ab874a68914e9cfb50e04534beb918cd",VTV3
-http://pcriptv.ddns.net:9981/stream/channelid/1749714859?ticket=AB4AD1CAFF622DA29962996B6A5B9A6628C66DCA&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/9zVTtsA.png" tvg-id="11952717bb8a23d6e3ddd7c7b4dc1a17",VTV4
-http://pcriptv.ddns.net:9981/stream/channelid/388470033?ticket=91417B95C54FB219B14EB613DBF83F11F13E86AB&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/7qPKNFU.png" tvg-id="137ca27192a0a732e04ab2b86e2665fd",VTV5
-http://pcriptv.ddns.net:9981/stream/channelid/1906474003?ticket=A13B2D5A897ACD25ECE5D7BBE840DF3067F313C2&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/HCpqatZ.png" tvg-id="d496c7312bed418148f4bd3fc38a2631",VTV CẦN THƠ
-http://pcriptv.ddns.net:9981/stream/channelid/835163860?ticket=CBB4FBAFABE9E152E6207855D52E8565F461731D&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/AgamSNe.png" tvg-id="19dce6170d87ebd34222167300da39e0",VTV7
-http://pcriptv.ddns.net:9981/stream/channelid/401005593?ticket=5F3D01B7F9E3A510A1C427F58713073D41DB42BD&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/lpcltL9.png" tvg-id="339460c87ac03a39e828fd93a360985c",VTV8
-http://pcriptv.ddns.net:9981/stream/channelid/1214288947?ticket=9BF253B9F80E5BD33679EDEEFA84ABABB7F71B93&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/Ex1VkGQ.png" tvg-id="1ecb74a25935b99595dc57dcb2a4943e",VTV9
-http://pcriptv.ddns.net:9981/stream/channelid/578079518?ticket=430E1BCF985C9E6CE0B925BFDE17A06A4940F2DB&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/mIUWkDx.png" tvg-id="31480f25435909503df45cd92328f84b",VTV5 TNB
-http://pcriptv.ddns.net:9981/stream/channelid/621758513?ticket=2999B4057CC9C7C7D3E27C8C932F11F83E6D0BAA&profile=pass
-#EXTINF:-1 logo="https://i.imgur.com/R8c2swd.png" tvg-id="2d7ed85f475b2fe2a1d867b58907a230",VTV5 TN
-http://pcriptv.ddns.net:9981/stream/channelid/1608023597?ticket=6B434DD53492A6CCFFD2B519CA4D153C1159610B&profile=pass
+#EXTINF:-1 logo="https://images.fptplay53.net/media/channels/OTT/2024/10/01/icon_channel_k-kids-hd_172771651866.jpg" tvg-id="08b452a3a28b81cdda76ca4e8714745d",K+ Kids (SCTV)
+https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/01.m3u8
 
 
 
